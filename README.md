@@ -83,19 +83,19 @@ http://millionsongdataset.com/
 
 ## Music Trends Over Time
 
-![Trend Analysis](figures/trend_analysis.png)
+![Trend Analysis](figures/trend_analysis.gif)
 
 ---
 
 ## Distribution Comparison Between Eras
 
-![Era Comparison](figures/era_distribution.png)
+![Era Comparison](figures/era_distribution.gif)
 
 ---
 
 ## Interactive Scatter Analysis
 
-![Scatter Plot](figures/scatter_analysis.png)
+![Scatter Plot](figures/scatter_analysis.gif)
 
 ---
 
@@ -109,9 +109,9 @@ music-trends-dashboard/
 │   └── msd_subset_yearly.csv
 │
 ├── figures/
-│   ├── trend_analysis.png
-│   ├── era_distribution.png
-│   └── scatter_analysis.png
+│   ├── trend_analysis.gif
+│   ├── era_distribution.gif
+│   └── scatter_analysis.gif
 │
 ├── README.md
 ├── index.html
