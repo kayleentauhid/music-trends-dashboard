@@ -89,13 +89,13 @@ http://millionsongdataset.com/
 
 ## Distribution Comparison Between Eras
 
-![Era Comparison](figures/era_distribution.gif)
+![Era Comparison](figures/era_comparison.gif)
 
 ---
 
 ## Interactive Scatter Analysis
 
-![Scatter Plot](figures/scatter_analysis.gif)
+![Scatter Plot](figures/attribute_relationships.gif)
 
 ---
 
